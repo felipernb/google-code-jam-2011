@@ -1,3 +1,8 @@
+# Problem A. Bot Trust
+# http://code.google.com/codejam/contest/dashboard?c=975485#s=p0
+#
+# @author Felipe Ribeiro <felipernb@gmail.com>
+
 t = input()
 def move_next_step(robot):
 	global position

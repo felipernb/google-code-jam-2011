@@ -1,3 +1,8 @@
+# Problem D. GoroSort
+# http://code.google.com/codejam/contest/dashboard?c=975485#s=p3
+#
+# @author Felipe Ribeiro <felipernb@gmail.com>
+
 t = input()
 for i in xrange(t):
 	n = input()

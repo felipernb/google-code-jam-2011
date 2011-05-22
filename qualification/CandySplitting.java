@@ -2,7 +2,12 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-
+/**
+ * Problem C. Candy Splitting
+ * http://code.google.com/codejam/contest/dashboard?c=975485#s=p2
+ * 
+ * @author Felipe Ribeiro <felipernb@gmail.com>
+ */
 public class CandySplitting {
 
 	public static void main(String args[]) {

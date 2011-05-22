@@ -3,7 +3,14 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-
+/**
+ * @FIXME This algorithm doesn't produce the correct output for large input
+ * 
+ * Problem B. Magicka
+ * http://code.google.com/codejam/contest/dashboard?c=975485#s=p1
+ * 
+ * @author Felipe Ribeiro <felipernb@gmail.com>
+ */
 public class Magicka {
 
 	public static String sortedString(String s) {
