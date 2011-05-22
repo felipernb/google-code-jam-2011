@@ -43,18 +43,18 @@ import java.util.Scanner;
  * 
  *        Limits
  * 
- *        1 ² T ² 40.
+ *        1 â‰¤ T â‰¤ 40.
  * 
  *        Small dataset
  * 
- *        1 ² N ² 100. 
- *        1 ² L ² H ² 10000. 
+ *        1 â‰¤ N â‰¤ 100. 
+ *        1 â‰¤ L â‰¤ H â‰¤ 10000. 
  *        All the frequencies are no larger than 10000.
  * 
  *        Large dataset
  * 
- *        1 ² N ² 10^4. 
- *        1 ² L ² H ² 10^16 
+ *        1 â‰¤ N â‰¤ 10^4. 
+ *        1 â‰¤ L â‰¤ H â‰¤ 10^16 
  *        All the frequencies are no larger than 10^16
  * 
  *        Sample

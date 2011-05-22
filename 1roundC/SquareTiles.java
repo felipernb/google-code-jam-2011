@@ -64,14 +64,14 @@ import java.util.Scanner;
  *        Limits
  *        
  *        Small dataset
- *        1 ² T ² 20.
- *        1 ² R ² 6.
- *        1 ² C ² 6.
+ *        1 â‰¤ T â‰¤ 20.
+ *        1 â‰¤ R â‰¤ 6.
+ *        1 â‰¤ C â‰¤ 6.
  *        
  *        Large dataset
- *        1 ² T ² 50.
- *        1 ² R ² 50.
- *        1 ² C ² 50.
+ *        1 â‰¤ T â‰¤ 50.
+ *        1 â‰¤ R â‰¤ 50.
+ *        1 â‰¤ C â‰¤ 50.
  *        
  *        Sample
  *        
