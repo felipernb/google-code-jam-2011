@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 /**
- * @FIXME This code doesn't produce the correct output
  * Problem C. Perfect Harmony
  * http://code.google.com/codejam/contest/dashboard?c=1128486#s=p2
  * 
@@ -97,7 +96,7 @@ public class PerfectHarmony {
 	private static int findFrequency(int l, int h) throws Exception {
 		boolean isInHarmony = false;
 		
-		for(int i = l; i < h; i++) {
+		for(int i = l; i <= h; i++) {
 			for(int f: freqs) {
 				isInHarmony = f % i == 0 || i % f == 0;
 				if(!isInHarmony) break;
