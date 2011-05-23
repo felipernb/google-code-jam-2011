@@ -72,7 +72,7 @@ import java.util.Scanner;
  * 
  * @author Felipe Ribeiro <felipernb@gmail.com>
  */
-public class PerfetHarmony {
+public class PerfectHarmony {
 	static int[] freqs;
 	
 	public static void main(String args[]) {
